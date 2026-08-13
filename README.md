@@ -1,4 +1,4 @@
-# valentines-customer-behavior-analysis
+# Valentines Customer Behavior Analysis
 This project analyzes customer purchasing behavior during Valentine’s Day using data extracted from a SQL database and visualized in Power BI.
 
 [![View Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiMGE4YzlmZmMtOWYyYy00NDY5LWI4NWQtYWJmMzNiMGIyYWQ2IiwidCI6IjZjNjUyZmE5LWI5NmUtNGFlMy04OGZmLTRhZDllOWRjZGMzNCIsImMiOjF9)
@@ -37,6 +37,8 @@ The goal of this project was to uncover insights into customer behavior based on
 
 ## Dashboard Preview
 <img width="1029" height="598" alt="sales overview" src="https://github.com/user-attachments/assets/e45c2e2d-cd30-47fd-a314-f2e4ad224733" />
+
+[![View Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiMGE4YzlmZmMtOWYyYy00NDY5LWI4NWQtYWJmMzNiMGIyYWQ2IiwidCI6IjZjNjUyZmE5LWI5NmUtNGFlMy04OGZmLTRhZDllOWRjZGMzNCIsImMiOjF9)
 
 ## Challenges
 - Missing data in search terms and payment fields, l solved using Power Query (handling nulls, filtering, assumptions).
