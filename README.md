@@ -3,9 +3,13 @@ This project analyzes customer purchasing behavior during Valentine’s Day usin
 
 ##  Project Overview
 The goal of this project was to uncover insights into customer behavior based on:
+
 -Gender
+
 -Age groups
+
 -Product preferences
+
 -Location
 -Payment methods
 -Time of purchase
